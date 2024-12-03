@@ -19,6 +19,7 @@
  - Considerar la excepción/probabilidad de que puedan existir máximo 2
   mejores egresados, dado el caso, usted deberá mostrar los dos mejores
   egresados.
+  * @author Juan Jose Calva
  */
 import java.util.Scanner;
 
